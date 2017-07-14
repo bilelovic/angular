@@ -1,3 +1,18 @@
+# The steps to create the project
+The sequence of commands that I used to create this project
+ sudo npm install -g @angular/cli
+ ng new my-app
+ cd my-app
+ npm install
+ npm install --save @angular/material @angular/animations @angular/cdk 
+ ng serve --open
+
+# Sources 
+(https://alligator.io/angular/angular-material-2/) without the hammer.js part
+(https://angular.io/guide/quickstart) 
+
+# Auto generated documentation by Angular ------------------------
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
